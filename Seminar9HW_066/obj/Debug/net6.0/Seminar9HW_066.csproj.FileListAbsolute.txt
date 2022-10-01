@@ -1,0 +1,15 @@
+C:\Users\Шаурин\Desktop\git-education\Projects C#\new C#\Seminar9HW_066\obj\Debug\net6.0\Seminar9HW_066.csproj.AssemblyReference.cache
+C:\Users\Шаурин\Desktop\git-education\Projects C#\new C#\Seminar9HW_066\obj\Debug\net6.0\Seminar9HW_066.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Шаурин\Desktop\git-education\Projects C#\new C#\Seminar9HW_066\obj\Debug\net6.0\Seminar9HW_066.AssemblyInfoInputs.cache
+C:\Users\Шаурин\Desktop\git-education\Projects C#\new C#\Seminar9HW_066\obj\Debug\net6.0\Seminar9HW_066.AssemblyInfo.cs
+C:\Users\Шаурин\Desktop\git-education\Projects C#\new C#\Seminar9HW_066\obj\Debug\net6.0\Seminar9HW_066.csproj.CoreCompileInputs.cache
+C:\Users\Шаурин\Desktop\git-education\Projects C#\new C#\Seminar9HW_066\bin\Debug\net6.0\Seminar9HW_066.exe
+C:\Users\Шаурин\Desktop\git-education\Projects C#\new C#\Seminar9HW_066\bin\Debug\net6.0\Seminar9HW_066.deps.json
+C:\Users\Шаурин\Desktop\git-education\Projects C#\new C#\Seminar9HW_066\bin\Debug\net6.0\Seminar9HW_066.runtimeconfig.json
+C:\Users\Шаурин\Desktop\git-education\Projects C#\new C#\Seminar9HW_066\bin\Debug\net6.0\Seminar9HW_066.dll
+C:\Users\Шаурин\Desktop\git-education\Projects C#\new C#\Seminar9HW_066\bin\Debug\net6.0\Seminar9HW_066.pdb
+C:\Users\Шаурин\Desktop\git-education\Projects C#\new C#\Seminar9HW_066\obj\Debug\net6.0\Seminar9HW_066.dll
+C:\Users\Шаурин\Desktop\git-education\Projects C#\new C#\Seminar9HW_066\obj\Debug\net6.0\refint\Seminar9HW_066.dll
+C:\Users\Шаурин\Desktop\git-education\Projects C#\new C#\Seminar9HW_066\obj\Debug\net6.0\Seminar9HW_066.pdb
+C:\Users\Шаурин\Desktop\git-education\Projects C#\new C#\Seminar9HW_066\obj\Debug\net6.0\Seminar9HW_066.genruntimeconfig.cache
+C:\Users\Шаурин\Desktop\git-education\Projects C#\new C#\Seminar9HW_066\obj\Debug\net6.0\ref\Seminar9HW_066.dll
